@@ -1,10 +1,12 @@
+package com.fanlx;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * @version v1.0
  * @ProjectName: spring
- * @ClassName: Test
+ * @ClassName: com.fanlx.Test
  * @Description: TODO
  * @Author: fanlx
  * @Date: 2020-09-27 12:49

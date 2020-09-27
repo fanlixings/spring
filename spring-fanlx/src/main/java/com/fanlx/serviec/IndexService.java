@@ -1,6 +1,4 @@
-package serviec;
-
-import org.springframework.stereotype.Component;
+package com.fanlx.serviec;
 
 /**
  * @version v1.0
